@@ -1,4 +1,6 @@
-## Olá! Eu sou o Asafe Lucena 🖐🏻
+### 👋 Olá, sou Asafe Lucena, um desenvolvedor front-end de 23 anos apaixonado por tecnologia. Possuo formação técnica em eletroeletrônica pelo IFCE e estou atualmente cursando Análise e Desenvolvimento de Sistemas. Comprometido em criar experiências web envolventes e funcionais. Vamos codificar o futuro juntos! 💻🚀 <br>
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asafe-lucena-8217a6202/)
 
 ![Asafe Lucena GitHub stats](https://github-readme-stats.vercel.app/api?username=AsafeLucena&show_icons=true&theme=radical) <br>
