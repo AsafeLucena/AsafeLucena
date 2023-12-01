@@ -14,10 +14,3 @@
 </div> <br>
 
  Apaixonado por tecnologia, cursando superior em Análise e Desenvolvimento de Sistemas. 
-
- ### Projetos mais recentes:
-
-<div style= "display: inline_block"><br>
-<img alt="projeto" src="https://github.com/AsafeLucena/AsafeLucena/assets/148495630/cd361e3c-6c52-441b-981f-5daaa35fa346
-">
-</div>
